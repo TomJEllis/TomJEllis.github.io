@@ -1,7 +1,7 @@
-//Javascipt sourced from https://codepen.io/tmrDevelops/pen/vOPZBv
+//Javascipt adapted from https://codepen.io/tmrDevelops/pen/vOPZBv
 
 
-var c = document.getElementById('canv');
+var c = document.getElementById('bg');
 var $ = c.getContext('2d');
 
 
