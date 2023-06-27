@@ -29,7 +29,7 @@ var run = function() {
       col(x, y, R(x,y,t), G(x,y,t), B(x,y,t));
     }
   }
-  t = t + 0.060;
+  t = t + 0.03;
   window.requestAnimationFrame(run);
 }
 
